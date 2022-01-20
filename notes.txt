@@ -1,0 +1,8 @@
+deno install https://deno.land/x/opine@2.1.1/mod.ts
+
+npm i -g typescript 
+
+Bash:
+deno run --allow-all filename.ts
+Windows:
+deno run --allow-all filename.ts
